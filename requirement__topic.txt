@@ -1,0 +1,17 @@
+Ví dụ như:
+Dependency Injection là gì, và mình làm nó như thế nào? Idea của nó ra sao? 
+Tại sao mình cần làm cái này?
+Clean Architecture của Java có bao nhiêu layer? Thử implement một cái?
+Làm sao để narrow down số lượng data được put vào trong request khi đã được gửi đến server? 
+Data Transfer Object là gì?
+Đâu là sự khác biệt giữa ORM và raw query khi lấy data? 
+Khi nào thì dùng cái nào?
+Dùng thử 1 ORM với Java.
+
+Rồi quay lại với Python:
+Async là gì?
+List được implement thế nào?
+Dictionary được implement thế nào?
+Set được implement thế nào?
+Generator là gì? so sánh với list?
+...
