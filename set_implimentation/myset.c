@@ -16,9 +16,7 @@ MySet* handle_duplicate(MySet* set) {
         for(int j=i+1; j < set->size; j++) {
             if(strcmp(set->values[i], set->values[j]) == 0) {
                 for(int k = j; k < set->size - 1; k++) {
-                    char* temp = set->values[k];
                     set->values[k] = set->values[k+1];
-                    set->values[k+1] = temp;
                     }
             set->size--;
             j--; 
